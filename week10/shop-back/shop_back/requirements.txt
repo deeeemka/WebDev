@@ -1,0 +1,13 @@
+asgiref==3.11.1
+certifi==2026.2.25
+distlib==0.4.0
+Django==6.0.3
+djangorestframework==3.17.1
+filelock==3.25.2
+packaging==26.0
+pipenv==2026.5.0
+platformdirs==4.9.4
+python-discovery==1.2.1
+setuptools==82.0.1
+sqlparse==0.5.5
+virtualenv==21.2.0
